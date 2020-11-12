@@ -1,2 +1,2 @@
-# module2_solution
-coursera assignment 2
+# module_solution
+coursera assignments
