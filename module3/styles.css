@@ -1,0 +1,24 @@
+.navbar{
+    background-color: darkgray;
+    width: 100%;
+    
+}
+
+section
+{
+    background-color: darkgrey;
+    margin: 30px;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+@media(min-width: 1200px){
+    .navbar-nav a{
+        display: none;
+    }
+}
+@media(min-width: 992px){
+    .navbar-nav a{
+        display: none;
+    }
+}
